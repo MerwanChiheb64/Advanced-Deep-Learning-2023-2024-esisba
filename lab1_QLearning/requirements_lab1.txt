@@ -1,0 +1,10 @@
+numpy
+gymnasium
+pygame
+jupyter
+pandas
+matplotlib
+tqdm
+imageio
+imageio[ffmpeg]
+imageio[pyav]
