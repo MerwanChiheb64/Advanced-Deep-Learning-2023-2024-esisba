@@ -1,0 +1,17 @@
+gym==0.22
+gym[box2d]==0.22
+numpy
+gymnasium
+swig
+pygame
+jupyter
+pandas
+matplotlib
+tqdm
+imageio
+imageio[ffmpeg]
+imageio[pyav]
+torch 
+torchvision
+torchaudio
+
